@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<Responses>
+	<BeachMatch NoInTournament="1" LocalDate="2010-07-07" LocalTime="15:00:00" TeamAType="&lt;Seed Position=&quot;1&quot; /&gt;" TeamAName="Larissa/Juliana" TeamBType="&lt;Seed Position=&quot;32&quot; /&gt;" TeamBName="Graessli/Goricanec" Court="2" MatchPointsA="2" MatchPointsB="0" PointsTeamASet1="21" PointsTeamBSet1="14" PointsTeamASet2="21" PointsTeamBSet2="14" PointsTeamASet3="" PointsTeamBSet3="" DurationSet1="960" DurationSet2="1080" DurationSet3="" No="15592" Version="1"/>
+</Responses>
