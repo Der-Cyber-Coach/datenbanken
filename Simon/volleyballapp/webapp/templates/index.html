@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <main>
+        <h1> 
+            <div class= "m-10 p-3 justify-center box-border w-60 rounded text-3xl font-bold bg-slate-200">Spielübersicht</div>
+        </h1>
+        <h2> 
+            <div class= "m-10 p-3 justify-center box-border w-60 rounded text-3xl font-bold bg-slate-200">Spieler</div>
+        </h2>
+
+        <style>
+            th, td {
+                padding: 10px;
+                width: 150px; /* oder eine andere geeignete Breite */
+                word-wrap: break-word;
+            }
+        </style>
+        
+        <table class="m-10 p-3 justify-center box-border border-spacing-y-0.5 w-60 rounded bg-slate-100 table-fixed">
+            <thead>
+                <tr>
+                    <th class="m-3"> Name </th>
+                    <th class="m-3"> Vorname </th>
+                    <th class="m-3"> Team </th>
+                    <th class="m-3"> Nationalität </th>
+                    <th class="m-3"> Geburtsjahr </th>
+                    <th class="m-3"> Geschlecht </th>
+                </tr>
+            </thead>
+        </table>
+        
+        
+        
+
+
+        </table>
+{% endblock %}
